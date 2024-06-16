@@ -1,1 +1,2 @@
 # proea
+run main
